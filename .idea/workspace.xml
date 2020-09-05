@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="450f8023-14cf-4602-b754-ff2736400d23" name="Default Changelist" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/src/chapter1/part1_basic/ArrayTranspose.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" show_ignored="true" />
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="CLEAR_OUTPUT_DIRECTORY" value="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindBugs-IDEA-Workspace">
+    <analyzeAfterCompile>true</analyzeAfterCompile>
+    <toolWindowToFront>false</toolWindowToFront>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1h5DThHY1tGrvTSwcSVSTrMkOVt" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showModules" value="false" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="GitIgnore" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="diff.external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ArrayTranspose">
+    <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+    </configuration>
+    <configuration name="ArrayTranspose" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter1.part1_basic.ArrayTranspose" />
+      <module name="Algorithms-practices-in-java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinarySearch" />
+      <module name="Algorithms-practices-in-java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindLargest" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="FindLargest" />
+      <module name="Algorithms-practices-in-java" />
+      <method v="2" />
+    </configuration>
+    <configuration name="FindLargestNoTerminal" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="FindLargestNoTerminal" />
+      <module name="Algorithms-practices-in-java" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ArrayTranspose" />
+        <item itemvalue="Application.BinarySearch" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="515" y="126" key="CommitChangelistDialog2" timestamp="1599299733044">
+      <screen x="56" y="23" width="1864" height="1057" />
+    </state>
+    <state x="515" y="126" key="CommitChangelistDialog2/56.23.1864.1057@56.23.1864.1057" timestamp="1599299733044" />
+    <state width="1838" height="290" key="GridCell.Tab.0.bottom" timestamp="1599307623977">
+      <screen x="61" y="23" width="1859" height="1057" />
+    </state>
+    <state width="1843" height="290" key="GridCell.Tab.0.bottom/56.23.1864.1057@56.23.1864.1057" timestamp="1599301856805" />
+    <state width="1838" height="290" key="GridCell.Tab.0.bottom/61.23.1859.1057@61.23.1859.1057" timestamp="1599307623977" />
+    <state width="1838" height="290" key="GridCell.Tab.0.center" timestamp="1599307623977">
+      <screen x="61" y="23" width="1859" height="1057" />
+    </state>
+    <state width="1843" height="290" key="GridCell.Tab.0.center/56.23.1864.1057@56.23.1864.1057" timestamp="1599301856804" />
+    <state width="1838" height="290" key="GridCell.Tab.0.center/61.23.1859.1057@61.23.1859.1057" timestamp="1599307623977" />
+    <state width="1838" height="290" key="GridCell.Tab.0.left" timestamp="1599307623977">
+      <screen x="61" y="23" width="1859" height="1057" />
+    </state>
+    <state width="1843" height="290" key="GridCell.Tab.0.left/56.23.1864.1057@56.23.1864.1057" timestamp="1599301856803" />
+    <state width="1838" height="290" key="GridCell.Tab.0.left/61.23.1859.1057@61.23.1859.1057" timestamp="1599307623977" />
+    <state width="1838" height="290" key="GridCell.Tab.0.right" timestamp="1599307623977">
+      <screen x="61" y="23" width="1859" height="1057" />
+    </state>
+    <state width="1843" height="290" key="GridCell.Tab.0.right/56.23.1864.1057@56.23.1864.1057" timestamp="1599301856804" />
+    <state width="1838" height="290" key="GridCell.Tab.0.right/61.23.1859.1057@61.23.1859.1057" timestamp="1599307623977" />
+    <state x="776" y="203" key="SettingsEditor" timestamp="1599304814252">
+      <screen x="61" y="23" width="1859" height="1057" />
+    </state>
+    <state x="773" y="203" key="SettingsEditor/56.23.1864.1057@56.23.1864.1057" timestamp="1599301207836" />
+    <state x="776" y="203" key="SettingsEditor/61.23.1859.1057@61.23.1859.1057" timestamp="1599304814252" />
+    <state x="653" y="258" width="670" height="676" key="search.everywhere.popup" timestamp="1599299163516">
+      <screen x="56" y="23" width="1864" height="1057" />
+    </state>
+    <state x="653" y="258" width="670" height="676" key="search.everywhere.popup/56.23.1864.1057@56.23.1864.1057" timestamp="1599299163516" />
+  </component>
+</project>
