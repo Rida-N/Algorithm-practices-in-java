@@ -35,6 +35,7 @@ public class ArrayTranspose {
     }
 
     public static void main(String[] args) {
+        
         StdOut.println();
         ArrayTranspose at = new ArrayTranspose(4, 6);
         at.printTranspose();

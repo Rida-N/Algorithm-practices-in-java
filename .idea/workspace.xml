@@ -11,9 +11,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="450f8023-14cf-4602-b754-ff2736400d23" name="Default Changelist" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/src/chapter1/part1_basic/ArrayTranspose.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter1/part1_basic/Histogram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter1/part1_basic/ArrayTranspose.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/part1_basic/ArrayTranspose.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +66,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ArrayTranspose">
+  <component name="RunManager" selected="Application.chapter1.part1_basic.Histogram">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -96,6 +97,11 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="chapter1.part1_basic.Histogram" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="chapter1.part1_basic.Histogram" />
+      <module name="Algorithms-practices-in-java" />
       <method v="2" />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -133,26 +139,26 @@
       <screen x="56" y="23" width="1864" height="1057" />
     </state>
     <state x="515" y="126" key="CommitChangelistDialog2/56.23.1864.1057@56.23.1864.1057" timestamp="1599299733044" />
-    <state width="1838" height="290" key="GridCell.Tab.0.bottom" timestamp="1599307623977">
+    <state width="1838" height="219" key="GridCell.Tab.0.bottom" timestamp="1599361726815">
       <screen x="61" y="23" width="1859" height="1057" />
     </state>
     <state width="1843" height="290" key="GridCell.Tab.0.bottom/56.23.1864.1057@56.23.1864.1057" timestamp="1599301856805" />
-    <state width="1838" height="290" key="GridCell.Tab.0.bottom/61.23.1859.1057@61.23.1859.1057" timestamp="1599307623977" />
-    <state width="1838" height="290" key="GridCell.Tab.0.center" timestamp="1599307623977">
+    <state width="1838" height="219" key="GridCell.Tab.0.bottom/61.23.1859.1057@61.23.1859.1057" timestamp="1599361726815" />
+    <state width="1838" height="219" key="GridCell.Tab.0.center" timestamp="1599361726814">
       <screen x="61" y="23" width="1859" height="1057" />
     </state>
     <state width="1843" height="290" key="GridCell.Tab.0.center/56.23.1864.1057@56.23.1864.1057" timestamp="1599301856804" />
-    <state width="1838" height="290" key="GridCell.Tab.0.center/61.23.1859.1057@61.23.1859.1057" timestamp="1599307623977" />
-    <state width="1838" height="290" key="GridCell.Tab.0.left" timestamp="1599307623977">
+    <state width="1838" height="219" key="GridCell.Tab.0.center/61.23.1859.1057@61.23.1859.1057" timestamp="1599361726814" />
+    <state width="1838" height="219" key="GridCell.Tab.0.left" timestamp="1599361726814">
       <screen x="61" y="23" width="1859" height="1057" />
     </state>
     <state width="1843" height="290" key="GridCell.Tab.0.left/56.23.1864.1057@56.23.1864.1057" timestamp="1599301856803" />
-    <state width="1838" height="290" key="GridCell.Tab.0.left/61.23.1859.1057@61.23.1859.1057" timestamp="1599307623977" />
-    <state width="1838" height="290" key="GridCell.Tab.0.right" timestamp="1599307623977">
+    <state width="1838" height="219" key="GridCell.Tab.0.left/61.23.1859.1057@61.23.1859.1057" timestamp="1599361726814" />
+    <state width="1838" height="219" key="GridCell.Tab.0.right" timestamp="1599361726814">
       <screen x="61" y="23" width="1859" height="1057" />
     </state>
     <state width="1843" height="290" key="GridCell.Tab.0.right/56.23.1864.1057@56.23.1864.1057" timestamp="1599301856804" />
-    <state width="1838" height="290" key="GridCell.Tab.0.right/61.23.1859.1057@61.23.1859.1057" timestamp="1599307623977" />
+    <state width="1838" height="219" key="GridCell.Tab.0.right/61.23.1859.1057@61.23.1859.1057" timestamp="1599361726814" />
     <state x="776" y="203" key="SettingsEditor" timestamp="1599304814252">
       <screen x="61" y="23" width="1859" height="1057" />
     </state>
